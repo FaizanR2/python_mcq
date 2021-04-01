@@ -1,0 +1,203 @@
+def Q1():
+    print('  1. What is the capital of Turkey')
+    print('  A: Ankara')
+    print('  B: Islamabad')
+    print('  C: Istanbul')
+    print('  D: Moscow')
+    ans = input('Enter the Answer: ').upper()
+    if len(ans) > 1:
+        print('Please Enter the letter from A to D')
+    if ans == 'A':
+        print('Correct Answer')
+    elif ans == 'B':
+        print('Incorrect Answer')
+    elif ans == 'C':
+        print('Incorrect Answer')
+    elif ans == 'D':
+        print('Incorrect Answer')
+    else:
+        print('Invalid input, Please enter the letter from A to D')
+        
+def Q2():
+    print('\n 2. What is the capital of Pakistan')
+    print('   A: Ankara')
+    print('   B: Islamabad')
+    print('   C: Istanbul')
+    print('   D: Moscow')
+    ans = input('Enter the Answer: ').upper()
+    if len(ans) > 1:
+        print('Please Enter the letter from A to D')
+    if ans == 'B':
+        print('Correct Answer')
+    elif ans == 'A':
+        print('Incorrect Answer')
+    elif ans == 'C':
+        print('Incorrect Answer')
+    elif ans == 'D':
+        print('Incorrect Answer')
+    else:
+        print('Invalid input, Please enter the letter from A to D')
+        
+def Q3():
+    print('\n 3. What is the capital of Russia')
+    print('   A: Ankara')
+    print('   B: Islamabad')
+    print('   C: Istanbul')
+    print('   D: Moscow')
+    ans = input('Enter the Answer: ').upper()
+    if len(ans) > 1:
+        print('Please Enter the letter from A to D')
+    if ans == 'D':
+        print('Correct Answer')
+    elif ans == 'B':
+        print('Incorrect Answer')
+    elif ans == 'C':
+        print('Incorrect Answer')
+    elif ans == 'A':
+        print('Incorrect Answer')
+    else:
+        print('Invalid input, Please enter the letter from A to D')
+
+def Q4():
+    print('\n 4. What is the capital of Saudia Arabia?')
+    print('   A: Riyadh')
+    print('   B: Beijing')
+    print('   C: Kuala Lumpur')
+    print('   D: Jakarta')
+    ans = input('Enter the Answer: ').upper()
+    if len(ans) > 1:
+        print('Please Enter the letter from A to D')
+    if ans == 'A':
+        print('Correct Answer')
+    elif ans == 'B':
+        print('Incorrect Answer')
+    elif ans == 'C':
+        print('Incorrect Answer')
+    elif ans == 'D':
+        print('Incorrect Answer')
+    else:
+        print('Invalid input, Please enter the letter from A to D')
+
+def Q5():
+    print('\n 5. What is the capital of Indonesia?')
+    print('   A: Riyadh')
+    print('   B: Beijing')
+    print('   C: Kuala Lumpur')
+    print('   D: Jakarta')
+    ans = input('Enter the Answer: ').upper()
+    if len(ans) > 1:
+        print('Please Enter the letter from A to D')
+    if ans == 'D':
+        print('Correct Answer')
+    elif ans == 'B':
+        print('Incorrect Answer')
+    elif ans == 'C':
+        print('Incorrect Answer')
+    elif ans == 'A':
+        print('Incorrect Answer')
+    else:
+        print('Invalid input, Please enter the letter from A to D')
+
+def Q6():
+    print('\n 6. What is the capital of China')
+    print('   A: Riyadh')
+    print('   B: Beijing')
+    print('   C: Kuala Lumpur')
+    print('   D: Jakarta')
+    ans = input('Enter the Answer: ').upper()
+    if len(ans) > 1:
+        print('Please Enter the letter from A to D')
+    if ans == 'B':
+        print('Correct Answer')
+    elif ans == 'D':
+        print('Incorrect Answer')
+    elif ans == 'C':
+        print('Incorrect Answer')
+    elif ans == 'A':
+        print('Incorrect Answer')
+    else:
+        print('Invalid input, Please enter the letter from A to D')
+
+def Q7():
+    print('\n 7. What is the capital of Malaysia')
+    print('   A: Riyadh')
+    print('   B: Beijing')
+    print('   C: Kuala Lumpur')
+    print('   D: Jakarta')
+    ans = input('Enter the Answer: ').upper()
+    if len(ans) > 1:
+        print('Please Enter the letter from A to D')
+    if ans == 'C':
+        print('Correct Answer')
+    elif ans == 'B':
+        print('Incorrect Answer')
+    elif ans == 'D':
+        print('Incorrect Answer')
+    elif ans == 'A':
+        print('Incorrect Answer')
+    else:
+        print('Invalid input, Please enter the letter from A to D')
+
+def Q8():
+    print('\n 8. What is the capital of Netherlands')
+    print('   A: Amsterdam')
+    print('   B: New Delhi')
+    print('   C: Paris')
+    print('   D: Moscow')
+    ans = input('Enter the Answer: ').upper()
+    if len(ans) > 1:
+        print('Please Enter the letter from A to D')
+    if ans == 'A':
+        print('Correct Answer')
+    elif ans == 'B':
+        print('Incorrect Answer')
+    elif ans == 'C':
+        print('Incorrect Answer')
+    elif ans == 'D':
+        print('Incorrect Answer')
+    else:
+        print('Invalid input, Please enter the letter from A to D')
+
+def Q9():
+    print('\n 9. What is the capital of France')
+    print('   A: Amsterdam')
+    print('   B: New Delhi')
+    print('   C: Paris')
+    print('   D: Moscow')
+    ans = input('Enter the Answer: ').upper()
+    if len(ans) > 1:
+        print('Please Enter the letter from A to D')
+    if ans == 'C':
+        print('Correct Answer')
+    elif ans == 'B':
+        print('Incorrect Answer')
+    elif ans == 'D':
+        print('Incorrect Answer')
+    elif ans == 'A':
+        print('Incorrect Answer')
+    else:
+        print('Invalid input, Please enter the letter from A to D')
+
+def Q10():
+    print('\n 10. What is the capital of India')
+    print('   A: Amsterdam')
+    print('   B: New Delhi')
+    print('   C: Paris')
+    print('   D: Moscow')
+    ans = input('Enter the Answer: ').upper()
+    if len(ans) > 1:
+        print('Please Enter the letter from A to D')
+    if ans == 'B':
+        print('Correct Answer')
+    elif ans == 'D':
+        print('Incorrect Answer')
+    elif ans == 'C':
+        print('Incorrect Answer')
+    elif ans == 'A':
+        print('Incorrect Answer')
+    else:
+        print('Invalid input, Please enter the letter from A to D')
+
+questions = [Q1(),Q2(),Q3(),Q4(),Q5(),Q6(),Q7(),Q8(),Q9(),Q10()]  
+for i in questions:
+    print(i)
